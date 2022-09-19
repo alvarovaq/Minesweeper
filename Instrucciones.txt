@@ -1,6 +1,0 @@
-Comienzas con un tablero formado por una cuadrícula dónde algunas de sus celdas contienen minas.
-El objetivo es descubrir todas las casillas que no contienen minas. Si abrimos una casilla que contiene una mina, hemos perdido la partida.
-Si se descubre una celda que no contiene minas, esta mostrará un número indicando cuantas minas hay en las 8 casillas que la rodean.
-Las casillas sin minas de alrededor se abrirán automáticamente al hacer clic sobre ellas.
-
-Puedes colocar una bandera sobre una casilla, en la que consideres que hay una mina, haciendo clic con el botón derecho.
