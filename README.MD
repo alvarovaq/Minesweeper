@@ -25,3 +25,5 @@ Estos marcadores se pueden desplazar haciendo clic con el botón izquierdo y dep
 
 Para ejecutar dicho juego, es imprescidible tener instalado en el ordenador las siguientes librerias
 1.  pygame
+
+Ejecutar archivo *main.py*
