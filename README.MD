@@ -1,5 +1,5 @@
 # Minesweeper
-Encuentra las minas ocultas sin que exploten. Clásico juego de buscaminas en el que cada casilla muestra un número con la cantidad de minas que se encuentran alrededor. Pulsa sobre una casilla cualquiera del tablero para iniciar el juego. Los números indican el número de minas que hay en las casillas adyacentes.
+Encuentra las minas ocultas sin que exploten. Clásico juego de buscaminas en el que cada casilla muestra un número con la cantidad de minas que se encuentran alrededor. Los números indican el número de minas que hay en las casillas adyacentes.
 
 
 <img src="https://user-images.githubusercontent.com/113897176/191001273-596a29a4-30df-4560-909c-4c364bed8750.png" width="300">
@@ -10,6 +10,7 @@ Comienzas con un tablero formado por una cuadrícula dónde algunas de sus celda
 Puedes colocar una bandera sobre una casilla, en la que consideres que hay una mina, haciendo clic con el botón derecho.
 
 Si quieres salir de la partida, pulsa la tecla ESC. En caso de salir, no se guardará la partida.
+
 En la pantalla se encuentra dos marcadores, uno marca el tiempo que ha trascurrido desde el inicio de la partida, y la segunda indican las banderas restantes.
 Estos marcadores se pueden desplazar haciendo clic con el botón izquierdo y deplazandolo hasta la posición deseada.
 
