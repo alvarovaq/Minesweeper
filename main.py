@@ -1,7 +1,7 @@
 import pygame,sys
 from pygame.locals import *
-import Menu
+import menu
 
 if __name__ == '__main__' :
-	menu = Menu.Menu()
+	menu = menu.Menu()
 	menu.start()
