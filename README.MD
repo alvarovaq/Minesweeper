@@ -9,8 +9,9 @@ Comienzas con un tablero formado por una cuadrícula dónde algunas de sus celda
 
 Puedes colocar una bandera sobre una casilla, en la que consideres que hay una mina, haciendo clic con el botón derecho.
 
-Si quieres salir de la partida, pulsa la tecla ESC. En caso de salir no se guardará la partida.
+Si quieres salir de la partida, pulsa la tecla ESC. En caso de salir, no se guardará la partida.
 En la pantalla se encuentra dos marcadores, uno marca el tiempo que ha trascurrido desde el inicio de la partida, y la segunda indican las banderas restantes.
+Estos marcadores se pueden desplazar haciendo clic con el botón izquierdo y deplazandolo hasta la posición deseada.
 
 ## Niveles
 
