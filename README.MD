@@ -22,9 +22,37 @@ Estos marcadores se pueden desplazar haciendo clic con el botón izquierdo y dep
 | Medio  | 14x14 | 40 |
 | Difícil  | 20x20 | 99 |
 
-## Ejecución
+## Vídeos
 
-Para ejecutar dicho juego, es imprescidible tener instalado en el ordenador las siguientes librerias
-1.  pygame
+Aunque este juego es muy conocido a nivel internacional, podeis ver en el siguiente vídeo un poco el funcionamiento del mismo. En la aplicación utilizo sonidos cuando el jugador pulsa una casilla para indicar de una manera más dinámica si la casilla no hay peligro, o por lo contrario hay una mina y ha perdido el juego. Podeís activar el volumen para comprobarlo.
 
-Ejecutar archivo *main.py*
+https://user-images.githubusercontent.com/113897176/198708445-a15ab4e1-5e8f-49cc-a20f-517f6c165d65.mp4
+
+## Desarrollo
+
+*Diciembre de 2020 - 2 Semanas*
+
+Este juego ha sido desarrollado por mí con la motivación de poder recreear el famoso juego del busca minas. Es un juego en la cual es muy común y muy usado para aprender no solo un lenguaje de programación en específico, si no que también para aprender a desarrollar la lógica de programación, y así ha sido.
+
+Ha sido un proyecto bastante entretenido y curioso, no solo por la lógica del juego, sino que tambíen a la hora de programar la interfaz.
+
+## Paquetes
+
+*  pygame
+
+Ejecuta el siguiente comando para instalarlos
+
+`$ pip install -r requirements.txt`
+o bien
+`$ pip install pygame`
+
+Ejecuta el archivo *main.py* para iniciar el juego
+
+`$ python main.py`
+
+## Contacto
+
+* Email: alvaro.vaquero.tel@gmail.com
+* LinkedIn: https://www.linkedin.com/in/alvaro-vaquero-gimenez/
+* Twitter: https://twitter.com/AlvaroVaqGim
+* Página Web: https://alvarovaq.github.io
